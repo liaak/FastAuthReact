@@ -31,3 +31,6 @@ Development Notes:
 
 GitHub Repository:
 https://github.com/liaak/FastAuthReact
+
+License:
+This project is licensed under the MIT License. See the LICENSE file for details.
